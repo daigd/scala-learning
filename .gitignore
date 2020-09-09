@@ -1,0 +1,6 @@
+#ignore
+.ipynb_checkpoints
+
+#exclusive
+!*.md
+!*.ipynb
